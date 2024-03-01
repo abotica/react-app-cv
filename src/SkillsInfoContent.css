@@ -1,0 +1,22 @@
+.skills-info-content {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px 0;
+    -webkit-margin-collapse: collapse;
+}
+
+.skill-level-container {
+    width: 100%;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #AC886A;
+    margin: 10px 0;
+    color: #212825;
+}
+
+.skill-level-meter:first-child {
+    padding-right: 5px;
+}

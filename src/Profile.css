@@ -1,0 +1,19 @@
+.name-surname {
+    font-size: xx-large;
+    width: max-content;
+    color: #AC886A;
+    font-weight: bolder;
+}
+
+.image-div {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #BCDED3;
+}
+
+.image-div img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}

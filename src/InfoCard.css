@@ -1,0 +1,23 @@
+.card {
+    background-color: #135153;
+    width: 100%;
+    height: max-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 20px 0;
+    padding-top: 15px;
+    -webkit-margin-collapse: collapse;
+    border-radius: 20px;
+    border: 1px solid #C8E4DC;
+}
+
+.card-name {
+    border-bottom: 1px solid #C8E4DC;
+    width: 80%;
+    text-align: center;
+    color: #a1b5b0;
+    font-size: larger;
+    font-weight: bolder;
+}

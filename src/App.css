@@ -1,0 +1,17 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+html {
+    background-color: #212825;
+}
+
+.required-field {
+    font-weight: bold;
+    color: #AC886A;
+}
+
+.info-field {
+    font-weight: lighter;
+    color: #AC886A;
+}

@@ -1,0 +1,16 @@
+.general-info-content {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    height: max-content;
+    margin: 20px 0;
+    -webkit-margin-collapse: collapse;
+}
+
+.required-field {
+    font-weight: bold;
+}
+
+.info-field {
+    font-weight: lighter;
+}
